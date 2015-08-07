@@ -1,0 +1,14 @@
+12
+14608512	Shanghai, China
+1000	a
+1000	b
+1000	aa
+1000	aaa
+1000	ab
+1000	bb
+1000	aab
+1000	aaab
+1000	ab
+1000	bb
+1000	aab
+1000	aaab
